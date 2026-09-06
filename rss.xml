@@ -1,10 +1,212 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laboratorio Reig Jofre — Noticias</title>
     <link>https://reigjofre.com/es/noticias/</link>
     <description>Noticias, comunicados y documentos publicados por Laboratorio Reig Jofre.</description>
     <language>es</language>
-    <atom:link href="https://raw.githubusercontent.com/plis2100/reig-jofre-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sun, 06 Sep 2026 18:27:40 +0000</lastBuildDate>
+    <generator>GitHub Actions RSS Generator</generator>
+    <ns0:link href="https://raw.githubusercontent.com/plis2100/reig-jofre-noticias-rss/main/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros del segundo trimestre de 2026</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-segundo-trimestre-de-2026</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-segundo-trimestre-de-2026</guid>
+      <pubDate>Fri, 31 Jul 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-segundo-trimestre-de-2026"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE refuerza su porfolio hospitalario en antiinfecciosos con el lanzamiento de dalbavancina en Europa</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-refuerza-su-porfolio-hospitalario-en-antiinfecciosos-con-el-lanzamiento-de-dalbavancina-en-europa</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-refuerza-su-porfolio-hospitalario-en-antiinfecciosos-con-el-lanzamiento-de-dalbavancina-en-europa</guid>
+      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-refuerza-su-porfolio-hospitalario-en-antiinfecciosos-con-el-lanzamiento-de-dalbavancina-en-europa"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE, reconocida por el grupo Mediforum y Fenin por el valor innovador y científico de VINCOBIOSIS®</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-reconocida-por-el-grupo-mediforum-y-fenin-por-el-valor-innovador-y-cientifico-de-vincobiosis</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-reconocida-por-el-grupo-mediforum-y-fenin-por-el-valor-innovador-y-cientifico-de-vincobiosis</guid>
+      <pubDate>Wed, 27 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-reconocida-por-el-grupo-mediforum-y-fenin-por-el-valor-innovador-y-cientifico-de-vincobiosis"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros del primer trimestre de 2026</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-trimestre-de-2026</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-trimestre-de-2026</guid>
+      <pubDate>Thu, 07 May 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-trimestre-de-2026"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros del ejercicio 2025</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-ejercicio-2025</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-ejercicio-2025</guid>
+      <pubDate>Fri, 27 Feb 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-ejercicio-2025"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>Forté Pharma presenta Forté Noche Sueño Relax</title>
+      <link>https://reigjofre.com/es/noticias/item/forte-pharma-presenta-forte-noche-sueno-relax</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/forte-pharma-presenta-forte-noche-sueno-relax</guid>
+      <pubDate>Mon, 02 Feb 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/forte-pharma-presenta-forte-noche-sueno-relax"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE adquiere Leanbio y fortalece su integración vertical en biotecnología</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-adquiere-leanbio-y-fortalece-su-integracion-vertical-en-biotecnologia</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-adquiere-leanbio-y-fortalece-su-integracion-vertical-en-biotecnologia</guid>
+      <pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-adquiere-leanbio-y-fortalece-su-integracion-vertical-en-biotecnologia"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>Representación parlamentaria visita la planta de REIG JOFRE en Barcelona, referente europeo en producción farmacéutica estéril</title>
+      <link>https://reigjofre.com/es/noticias/item/representacion-parlamentaria-visita-la-planta-de-reig-jofre-en-barcelona-referente-europeo-en-produccion-farmaceutica-esteril</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/representacion-parlamentaria-visita-la-planta-de-reig-jofre-en-barcelona-referente-europeo-en-produccion-farmaceutica-esteril</guid>
+      <pubDate>Wed, 19 Nov 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/representacion-parlamentaria-visita-la-planta-de-reig-jofre-en-barcelona-referente-europeo-en-produccion-farmaceutica-esteril"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>Marta Español, Directora de Regulatory &amp; Public Affairs de REIG JOFRE, nombrada Académica en la Reial Acadèmia de Farmàcia de Catalunya</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-semestre-2025</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-semestre-2025</guid>
+      <pubDate>Thu, 13 Nov 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-semestre-2025"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros del tercer trimestre 2025</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-tercer-trimestre-2025</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-tercer-trimestre-2025</guid>
+      <pubDate>Wed, 05 Nov 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-tercer-trimestre-2025"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>La Comisión Europea visita la planta de REIG JOFRE en Barcelona en el marco de su estrategia de producción de vacunas</title>
+      <link>https://reigjofre.com/es/noticias/item/la-comision-europea-visita-la-planta-de-reig-jofre-en-barcelona-en-el-marco-de-su-estrategia-de-produccion-de-vacunas</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/la-comision-europea-visita-la-planta-de-reig-jofre-en-barcelona-en-el-marco-de-su-estrategia-de-produccion-de-vacunas</guid>
+      <pubDate>Thu, 09 Oct 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/la-comision-europea-visita-la-planta-de-reig-jofre-en-barcelona-en-el-marco-de-su-estrategia-de-produccion-de-vacunas"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros del primer semestre 2025</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-semestre-2025-2</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-semestre-2025-2</guid>
+      <pubDate>Fri, 25 Jul 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-semestre-2025-2"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>Bioglan abre una instalación de vanguardia mientras la innovación sueca impulsa una nueva era en el tratamiento del Parkinson</title>
+      <link>https://reigjofre.com/es/noticias/item/bioglan-abre-una-instalacion-de-vanguardia-mientras-la-innovacion-sueca-impulsa-una-nueva-era-en-el-tratamiento-del-parkinson</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/bioglan-abre-una-instalacion-de-vanguardia-mientras-la-innovacion-sueca-impulsa-una-nueva-era-en-el-tratamiento-del-parkinson</guid>
+      <pubDate>Tue, 27 May 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/bioglan-abre-una-instalacion-de-vanguardia-mientras-la-innovacion-sueca-impulsa-una-nueva-era-en-el-tratamiento-del-parkinson"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros del primer trimestre 2025</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-trimestres-2025</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-trimestres-2025</guid>
+      <pubDate>Fri, 09 May 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-del-primer-trimestres-2025"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE recibirá 13 millones de euros del CDTi para impulsar la innovación farmacéutica en el marco del proyecto europeo IPCEI Med4Cure</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-recibira-13-millones-de-euros-del-cdti-para-impulsar-la-innovacion-farmaceutica-en-el-marco-del-proyecto-europeo-ipcei-med4cure</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-recibira-13-millones-de-euros-del-cdti-para-impulsar-la-innovacion-farmaceutica-en-el-marco-del-proyecto-europeo-ipcei-med4cure</guid>
+      <pubDate>Thu, 08 May 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-recibira-13-millones-de-euros-del-cdti-para-impulsar-la-innovacion-farmaceutica-en-el-marco-del-proyecto-europeo-ipcei-med4cure"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE y LEO PHARMA se unen para mejorar el acceso a un innovador tratamiento para la psoriasis en Atención Primaria</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-y-leo-pharma-se-unen-para-mejorar-el-acceso-a-un-innovador-tratamiento-para-la-psoriasis-en-atencion-primaria</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-y-leo-pharma-se-unen-para-mejorar-el-acceso-a-un-innovador-tratamiento-para-la-psoriasis-en-atencion-primaria</guid>
+      <pubDate>Wed, 26 Mar 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-y-leo-pharma-se-unen-para-mejorar-el-acceso-a-un-innovador-tratamiento-para-la-psoriasis-en-atencion-primaria"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>Convocatoria de prensa: Presentación de resultados anuales y perspectivas de futuro</title>
+      <link>https://reigjofre.com/es/noticias/item/convocatoria-de-prensa-presentacion-de-resultados-anuales-y-perspectivas-de-futuro</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/convocatoria-de-prensa-presentacion-de-resultados-anuales-y-perspectivas-de-futuro</guid>
+      <pubDate>Mon, 10 Mar 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/convocatoria-de-prensa-presentacion-de-resultados-anuales-y-perspectivas-de-futuro"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE remite nota de los resultados financieros de 2024</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-de-2024</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-de-2024</guid>
+      <pubDate>Fri, 28 Feb 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-remite-nota-de-los-resultados-financieros-de-2024"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE refuerza su área de dermatología con el lanzamiento de Vincobiosis® Acneic para el cuidado de pieles con tendencia acneica</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-refuerza-su-area-de-dermatologia-con-el-lanzamiento-de-vincobiosis-acneic-para-el-cuidado-de-pieles-con-tendencia-acneica</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-refuerza-su-area-de-dermatologia-con-el-lanzamiento-de-vincobiosis-acneic-para-el-cuidado-de-pieles-con-tendencia-acneica</guid>
+      <pubDate>Wed, 26 Feb 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-refuerza-su-area-de-dermatologia-con-el-lanzamiento-de-vincobiosis-acneic-para-el-cuidado-de-pieles-con-tendencia-acneica"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
+    <item>
+      <title>REIG JOFRE nombra a Teresa Pérez de Prada como Directora de su planta de desarrollo y producción de antibióticos en Toledo</title>
+      <link>https://reigjofre.com/es/noticias/item/reig-jofre-ranuncia-la-incorporacion-de-la-nueva-directora-de-la-planta-de-toledo</link>
+      <guid isPermaLink="true">https://reigjofre.com/es/noticias/item/reig-jofre-ranuncia-la-incorporacion-de-la-nueva-directora-de-la-planta-de-toledo</guid>
+      <pubDate>Wed, 15 Jan 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;a href="https://reigjofre.com/es/noticias/item/reig-jofre-ranuncia-la-incorporacion-de-la-nueva-directora-de-la-planta-de-toledo"&gt;Leer la noticia completa en Reig Jofre&lt;/a&gt;&lt;/p&gt;</description>
+      <author>Laboratorio Reig Jofre</author>
+      <category>Reig Jofre</category>
+      <category>Noticias corporativas</category>
+    </item>
   </channel>
 </rss>
